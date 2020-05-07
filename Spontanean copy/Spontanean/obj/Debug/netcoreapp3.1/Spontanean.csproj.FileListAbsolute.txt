@@ -1,0 +1,12 @@
+/Users/seancrawford/Projects/Spontanean/Spontanean/bin/Debug/netcoreapp3.1/Spontanean.deps.json
+/Users/seancrawford/Projects/Spontanean/Spontanean/bin/Debug/netcoreapp3.1/Spontanean.runtimeconfig.json
+/Users/seancrawford/Projects/Spontanean/Spontanean/bin/Debug/netcoreapp3.1/Spontanean.runtimeconfig.dev.json
+/Users/seancrawford/Projects/Spontanean/Spontanean/bin/Debug/netcoreapp3.1/Spontanean.dll
+/Users/seancrawford/Projects/Spontanean/Spontanean/bin/Debug/netcoreapp3.1/Spontanean.pdb
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.csprojAssemblyReference.cache
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.csproj.CoreCompileInputs.cache
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.AssemblyInfoInputs.cache
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.AssemblyInfo.cs
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.dll
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.pdb
+/Users/seancrawford/Projects/Spontanean/Spontanean/obj/Debug/netcoreapp3.1/Spontanean.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B4DD9F0C-12D4-4308-8CB3-6A366E463EFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spontanean/Program.cs">
+    <Files>
+      <File FileName="Spontanean/Program.cs" Line="10" Column="34" />
+      <File FileName="Spontanean/Park.cs" />
+      <File FileName="Spontanean/Player.cs" />
+      <File FileName="Spontanean/Menu.cs" />
+      <File FileName="Spontanean/Shop.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spontanean" expanded="True">
+            <Node name="Spontanean" expanded="True">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Spontanean PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
